@@ -51,7 +51,8 @@ To solve this issue, **SMOTE** was applied to synthetically generate new minorit
 
 ### Confusion Matrix
 
-![Confusion Matrix](Screenshot%202026-02-22%20235441.png)
+<img width="720" height="533" alt="Screenshot 2026-02-22 235459" src="https://github.com/user-attachments/assets/1fb1972b-9c91-4440-b3fe-b673b535262e" />
+
 
 The confusion matrix shows:
 - Strong bias toward Class 0
@@ -62,7 +63,8 @@ The confusion matrix shows:
 
 ### Class Distribution
 
-![Class Distribution](Screenshot%202026-02-22%20235459.png)
+<img width="549" height="439" alt="Screenshot 2026-02-22 235441" src="https://github.com/user-attachments/assets/6c2906ad-e61a-4a23-9e8e-e3afe70700f8" />
+
 
 The dataset is extremely imbalanced:
 - 99.8% → Class 0
